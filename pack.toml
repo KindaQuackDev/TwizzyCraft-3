@@ -1,0 +1,13 @@
+name = "Twizzy Craft 3"
+author = "QuackDev"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b2cd14e800ae7ac0f22260fca38d2943b7fe5821574346aca1c17615573e84c4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"
