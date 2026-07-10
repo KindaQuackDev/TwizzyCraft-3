@@ -7,3 +7,13 @@ hash = "c50b91c095a695bd46bb46b67899ff8f3e5baefae7ef0281bd764861d93439ef"
 [[files]]
 file = "README.md"
 hash = "e1a7ad2a4d0bcdbe6e212dd31181a711d9634dcf76a24ab1f5a2e2db1e41abec"
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+metafile = true
