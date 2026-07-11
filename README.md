@@ -12,7 +12,6 @@ Twizzy Craft is a modpack filled with adventures, new creatures to discover, mac
 
 ### Magic Mods
 - Ars Noveau
-- **Spectrum**
 - Occultism
 - **Malum and Gaze**
 - **Iron's Spells n' Spellbooks**
