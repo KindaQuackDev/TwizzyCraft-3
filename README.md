@@ -25,5 +25,5 @@ Twizzy Craft is a modpack filled with adventures, new creatures to discover, mac
 AND MUCH MORE!
 
 ## Past Versions:
-- TwizzyCraft [![CurseForge downloads](https://www.modpackindex.com/badge/modpack/58334/twizzy-craft/downloads-curseforge.svg)](https://www.modpackindex.com/modpack/58334/twizzy-craft)
-- TwizzyCraft 2 [![CurseForge downloads](https://www.modpackindex.com/badge/modpack/73979/twizzy-craft-2/downloads-curseforge.svg)](https://www.modpackindex.com/modpack/73979/twizzy-craft-2) 
+- TwizzyCraft [![CurseForge downloads](https://www.modpackindex.com/badge/modpack/58334/twizzy-craft/downloads-curseforge.svg)](https://www.curseforge.com/minecraft/modpacks/twizzy-craft)
+- TwizzyCraft 2 [![CurseForge downloads](https://www.modpackindex.com/badge/modpack/73979/twizzy-craft-2/downloads-curseforge.svg)](https://www.curseforge.com/minecraft/modpacks/twizzy-craft-2)
