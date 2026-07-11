@@ -29,6 +29,11 @@ hash = "896d14f8df7c6d3ed5b6ca292220fa87c1c305f50cbdca43034a3f0414be72ca"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
+metafile = true
+
+[[files]]
 file = "mods/collapsible-groups.pw.toml"
 hash = "68d6c6157376d8c70a7957cb944b63310e8d83d4b2e84fe8e8ba6d64d006918e"
 metafile = true
@@ -86,6 +91,31 @@ metafile = true
 [[files]]
 file = "mods/mega.pw.toml"
 hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/mekanismmoremachine.pw.toml"
+hash = "709c730c5b25c0e9e85dca41d2b5fb0bdfee1b6feb0c0d6401410fa1f5780332"
 metafile = true
 
 [[files]]
