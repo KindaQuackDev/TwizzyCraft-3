@@ -34,11 +34,6 @@ hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
-file = "mods/collapsible-groups.pw.toml"
-hash = "68d6c6157376d8c70a7957cb944b63310e8d83d4b2e84fe8e8ba6d64d006918e"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
 metafile = true
