@@ -179,6 +179,11 @@ hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
 file = "mods/gaze-a-malum-addon.pw.toml"
 hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
 metafile = true
