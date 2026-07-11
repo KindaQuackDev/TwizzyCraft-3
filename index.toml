@@ -99,6 +99,11 @@ hash = "46dba6a90d932a1ad078a3ce806b01bc4f7da8d66a7b80a9ca69b80d4978b83b"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "9e1fd510d8a87878dd151638ca19474493c814e3576ad3900006b265c28a02df"
 metafile = true
@@ -106,6 +111,26 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -246,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
