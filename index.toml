@@ -14,6 +14,11 @@ hash = "281593eae2857d26522a0084f7441ce8367cea75b23832d4ddbd435fa2cb02f2"
 metafile = true
 
 [[files]]
+file = "mods/ae2-qol-client.pw.toml"
+hash = "d613025b9f782e2e55c871109877fb1db35586553653401876e33770f69e7efb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -21,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "896d14f8df7c6d3ed5b6ca292220fa87c1c305f50cbdca43034a3f0414be72ca"
+metafile = true
+
+[[files]]
+file = "mods/collapsible-groups.pw.toml"
+hash = "68d6c6157376d8c70a7957cb944b63310e8d83d4b2e84fe8e8ba6d64d006918e"
 metafile = true
 
 [[files]]
@@ -46,6 +56,31 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6c9d967f0c84a3304ad3fe7223dfcf17c0d2bb2a1da2c879856bf4945dfd92f5"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "456dcdd6c4c172612713b59ebd871703b10aa00366cac0792d2d2da0951db2df"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "bffd4067f92d5d8ed7a8a3acfdae213e9523ba5a518196cbd0a98d05e95fe6b6"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "dfaea557f268beaec21999ba1277f4077bfbea0645f90274c32f2e166f6d1444"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
