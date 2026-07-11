@@ -4,7 +4,7 @@ version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "index.toml"
+file = "https://raw.githubusercontent.com/KindaQuackDev/TwizzyCraft-3/refs/heads/main/index.toml"
 hash-format = "sha256"
 hash = "c17553506b929288b88868eaa8117af99e60809218d96be72bb4cf3a7d8db42f"
 
