@@ -39,6 +39,11 @@ hash = "f7efd7092e12726923d7bde63bdfa648280f3035f4f9f3341047743cbac1b22a"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -144,6 +149,11 @@ hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
 metafile = true
@@ -156,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/extended-ae.pw.toml"
 hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "336456ba2dae48ef86917e5777d8ca24a174dd6def2a8631853afe7c1b468baa"
 metafile = true
 
 [[files]]
@@ -206,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
@@ -284,8 +304,23 @@ hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/nolijium.pw.toml"
+hash = "28cb207c25554463e24ef6c4fee325ecfddde66366c8bee7fcd4461c84e297b6"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
 metafile = true
 
 [[files]]
@@ -314,8 +349,8 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
