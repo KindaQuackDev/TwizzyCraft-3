@@ -159,6 +159,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/destroy.pw.toml"
+hash = "3aa3022afe33ba77b4f84b78978a5471b0d14fafe48b5cb3c6dc8f1ac89cc210"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
@@ -351,6 +356,16 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "232f7c77717ba691dd87661d830c40e6f60f99d04c0af6b75b128602e513da77"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "92a299204f6b5bb0f39900d5866df154ad360b83a035060e25aec50baa6e305f"
 metafile = true
 
 [[files]]

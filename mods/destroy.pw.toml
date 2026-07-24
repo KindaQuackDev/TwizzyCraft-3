@@ -1,0 +1,15 @@
+name = "Destroy"
+filename = "destroy-1.21.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/NHblock714/Destroy/releases/download/v0.4.0/destroy-1.21.1-0.4.0.jar"
+hash-format = "sha256"
+hash = "8c5d1916d64d6e3aad96ab43e7826155a466cf957bfbf36c3902c42e65bf69ce"
+
+[update]
+[update.github]
+branch = "1.21.1-neo"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "NHblock714/Destroy"
+tag = "v0.4.0"
