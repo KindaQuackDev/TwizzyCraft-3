@@ -244,6 +244,16 @@ hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "642f8cb70bf81192f9039dc2a76e6c3c0dbb934120e2858b867afaaccf95bf39"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "8c1835e4c54b3a3f5d79bcf0e3b0f25cc3113fe43c1190104a76ed5d8d839a3b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -324,6 +334,11 @@ hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
 metafile = true
 
 [[files]]
+file = "mods/mifa.pw.toml"
+hash = "b1779a709774591e3aae1d4f6ed6e308f944f903f93cf409cf25009bcdd8d401"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
 metafile = true
@@ -351,6 +366,16 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
+metafile = true
+
+[[files]]
+file = "mods/productive-metalworks.pw.toml"
+hash = "0b9a0e16decfe8ecd32234fad1320f33fbf9c683ea699dfedacfdf354ce9958e"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "7aa8bf129e51bda25386e18ebcd0db7eae278e95227406e8101a320cacf2f9b6"
 metafile = true
 
 [[files]]
@@ -396,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
 metafile = true
 
 [[files]]
