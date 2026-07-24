@@ -229,6 +229,11 @@ hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "ba43d1557a506d3192e3eb7b9dbb10701844417f6fdf7af245f2dff774d007d5"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
@@ -361,6 +366,21 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "087ba9ed2ea4bfbf8e8ec6fafae467f4b4e8d262f46f8066e3f84dc5e231ec21"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "d692170020a2e8b1dd1d0af610a14c25553bae66bb3f7372123115b5c7bc6157"
+metafile = true
+
+[[files]]
+file = "mods/silentgearaddon_shuriken.pw.toml"
+hash = "01d2a2d7386c36a529e7b100e9a99fd6f4796cb2c5d4e913b073d63e387ac66b"
 metafile = true
 
 [[files]]
