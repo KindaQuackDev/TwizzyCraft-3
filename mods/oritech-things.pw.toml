@@ -1,0 +1,13 @@
+name = "Oritech Things"
+filename = "oritechthings-0.0.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7tBAibK/versions/CHwCSJo8/oritechthings-0.0.45.jar"
+hash-format = "sha512"
+hash = "42207cb1a2661beef839529d19ee814478a7fbfa667d1528b91911441c7fd1db77c2c8b850d6e31295c3dfd1108942f3c5e1b0972990679e7df260e542c7d328"
+
+[update]
+[update.modrinth]
+mod-id = "C7tBAibK"
+version = "CHwCSJo8"
