@@ -199,6 +199,11 @@ hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
 metafile = true
@@ -245,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/gaze-a-malum-addon.pw.toml"
-hash = "be7b66f656d62935f1cf55f121214a465dc7c07860257b414696233e9aef9aa2"
+hash = "c367923085af785c1e969e992536e3e10a053003d1bd1cdb055ffe1f2ce9c362"
 metafile = true
 
 [[files]]
@@ -331,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/lodestone.pw.toml"
 hash = "8590e77951c4fb7c1ac4a52f8e1e0fa0103518b8c64ef3ae55ae654bfd6d2594"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
@@ -496,6 +506,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "16d83873bed6c9301df009a4f21ba45f920d3fca7536e4cd8b719c73393209e8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "8c6a1b99d6b1987fff088ee0fe08303789dc2bf71739c392de8c3ffa13ff0b1b"
 metafile = true
 
 [[files]]
