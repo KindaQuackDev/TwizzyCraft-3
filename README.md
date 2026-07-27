@@ -8,6 +8,7 @@ Twizzy Craft is a modpack filled with adventures, new creatures to discover, mac
 - Industrial Foregoing
 - **Oritech**
 - Powah
+- Immersive Engineering
 - AE2
 
 ### Magic Mods
