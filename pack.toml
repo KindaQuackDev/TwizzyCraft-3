@@ -1,6 +1,6 @@
 name = "Twizzy Craft 3"
 author = "TTwistz22"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "83146c6672967e0a5ba134c35e00a40dd63f0d3ef56f5a65d69f1df67f3be555"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.234"
+neoforge = "21.1.235"
