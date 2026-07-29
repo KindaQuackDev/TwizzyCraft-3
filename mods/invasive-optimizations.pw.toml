@@ -1,0 +1,13 @@
+name = "Invasive Optimizations"
+filename = "invasiveopts-1.0.22.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pynl8zUh/versions/pTnqNADJ/invasiveopts-1.0.22.jar"
+hash-format = "sha512"
+hash = "242da7099e0ef920788fd79cb6a452362b6b0e1542a3a370e417ae4e38f938efc818fbba14391da26bcdc42ad7685d35d1628e4d1b9552f5b31cdf616a01b8cb"
+
+[update]
+[update.modrinth]
+mod-id = "pynl8zUh"
+version = "pTnqNADJ"
