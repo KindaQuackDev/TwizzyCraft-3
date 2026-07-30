@@ -869,11 +869,6 @@ hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-neoforge.pw.toml"
-hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
