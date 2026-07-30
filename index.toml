@@ -1134,11 +1134,6 @@ hash = "939d5ba622ccaa6c1fba8a3c5007d3876f851540b0c9b23922e26ba89fe37ebb"
 metafile = true
 
 [[files]]
-file = "mods/visible-traders.pw.toml"
-hash = "bbcb54d5fbdd84fbd3ff55557c754c820b07d97ca33fa3dfc632d954d602ee46"
-metafile = true
-
-[[files]]
 file = "mods/waddles.pw.toml"
 hash = "0e355cc48486d2349ac810a250075f85f667f59e63b98ed5046059773614c75c"
 metafile = true
