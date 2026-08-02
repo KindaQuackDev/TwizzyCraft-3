@@ -1,12 +1,12 @@
 name = "Twizzy Craft 3"
 author = "KindaQuackDev"
-version = "0.3.1"
+version = "0.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "92816006d07b62feef6541c54b4e8a40a8af48c83b15fdc5dcf134c0970e7e07"
+hash = "7e4550b43fb876def9c07bd72db482ce41c21fa7b3e7ef63fc7335845f11a1b4"
 
 [versions]
 minecraft = "1.21.1"

@@ -654,6 +654,11 @@ hash = "1adf24c4207f2e7c99be3b5d4aaef206fbc3725441c14e1f7ea77d2648fc10ee"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
 file = "mods/laserio.pw.toml"
 hash = "0d7ce37fd00f170025118f0e3fbeef7f4e7147c332b1a5a4e924950eb5e36bc0"
 metafile = true
@@ -1099,18 +1104,8 @@ hash = "795add4311193a40605f4664f0f165630715d8498d199850c792fe5d09ce53c1"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "c490445e40a84c9e19bd3d3a7c8e8b9709b8cea0346a307eb7fb8a32a72a9504"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
 metafile = true
 
 [[files]]
