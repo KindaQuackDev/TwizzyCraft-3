@@ -6,7 +6,11 @@ hash = "c50b91c095a695bd46bb46b67899ff8f3e5baefae7ef0281bd764861d93439ef"
 
 [[files]]
 file = "README.md"
-hash = "e1a7ad2a4d0bcdbe6e212dd31181a711d9634dcf76a24ab1f5a2e2db1e41abec"
+hash = "5f17ca9bbd835f9f5cb1f634c9c5523bc4751e3eac16605a50d7c08ce3d5e6d5"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
 [[files]]
 file = "mods/actually-additions.pw.toml"
